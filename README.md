@@ -1,5 +1,5 @@
 # Webshop
-一个基于Vue.js+Node.js+MySQL的购物网站
+一个基于Vue.js+Node.js+MySQL的[购物网站](https://yezhuming.github.io/Webshop/dist/index.html#/)
 
 ## 运行项目
 ### 克隆项目到本地
